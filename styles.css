@@ -100,6 +100,12 @@ ul {
   margin-right: auto;
   box-shadow: var(--clr-p-yellow) 1.95px 1.95px 2.6px;
 }
+.btn:hover {
+  border: 1px solid white;
+  color: var(--clr-p-yellow);
+  background: white;
+  cursor: pointer;
+}
 
 .price {
   color: white;
